@@ -1,4 +1,4 @@
-50.times do |i|
+10000.times do |i|
   Person.create do |person|
     first_name = Faker::Name.first_name
     gender = Person.genders.values.sample

@@ -9,6 +9,7 @@
 #= require nprogress-turbolinks
 #= require nprogress-ajax
 #= require pubsub
+#= require classnames
 
 #= require_tree ./utils
 #= require_tree ./react
